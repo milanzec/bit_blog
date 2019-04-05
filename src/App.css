@@ -1,0 +1,52 @@
+.top{
+  background-color: deepskyblue;
+  color: azure;
+  height: 50px;
+}
+.bottom{
+  background-color: deepskyblue;
+}
+.topright a{
+  color: azure;
+  margin-left: 4%;
+  
+}
+.Main{
+  text-align: center;
+  font-size: 1.5em;
+
+}
+.Main:hover{
+  background-color: silver;
+  
+} 
+.about{
+  text-align: center;
+}
+.howerauthor:hover{
+  background-color: burlywood;
+  width: 150px;
+
+  border-radius: 30%;
+
+}
+.howerauthor{
+  height: 50px;
+}
+.singlepost{
+  font-size: 1.5em;
+  background-color: burlywood;
+}
+.singlepost>a:hover{
+  background-color: burlywood;
+}
+input{
+  width:100%;
+}
+textarea{
+  width: 100%;
+  height: 300px;
+}
+.back{
+  background-color: burlywood;
+}
